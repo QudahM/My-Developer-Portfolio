@@ -6,10 +6,10 @@
     $secondary-color 100%
   );
   color: $white-color;
-  height: 100%;
+  height: 850px; //Find a better solution to solve the issue with the white holes in the background
   -webkit-clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
   clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
-  padding-bottom: 11%;
+  padding-bottom: 15%;
   @include respond(tab-land) {
     height: 100%;
     -webkit-clip-path: none;
