@@ -20,18 +20,17 @@ Professional Showcase: Detailed sections for professional experiences, skills, a
 Easy Navigation: User-friendly navigation to explore different sections.
 
 ## How to Use
-    1. Visit the live site (https://qudahm.github.io/My-Developer-Portfolio/).
+1. Visit the live site (https://qudahm.github.io/My-Developer-Portfolio/).
 
-    2. Use the navigation bar to explore sections such as:
-        * About Me: Learn about my professional background and interests.
-        * Projects: Browse featured software development projects with details and links to source code (where applicable).
-        * Skills: Discover my technical proficiencies and tools I frequently use.
-        * Contact: Find ways to connect with me or send feedback.
+2. Use the navigation bar to explore sections such as:
+    * <b>About Me:</b> Learn about my professional background and interests.
+    * <b>Projects:</b> Browse featured software development projects with details and links to source code (where applicable).
+    * <b>Skills:</b> Discover my technical proficiencies and tools I frequently use.
+    * <b>Contact:</b> Find ways to connect with me or send feedback.
 
 
 ## Contact Information
 For any inquiries or feedback, feel free to reach out:
 
-Email: qudahm@example.com
-LinkedIn: Mohammad Qudah
-Website: My Developer Portfolio
+LinkedIn: <a href ="https://www.linkedin.com/in/qudahm/"> My LinkedIn Profile <a> <br>
+Website: <a href ="https://qudahm.github.io/My-Developer-Portfolio/"> My Developer Portfolio </a>
