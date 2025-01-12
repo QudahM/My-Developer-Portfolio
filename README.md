@@ -6,12 +6,12 @@ This project is a professional website designed to showcase my experiences and s
 Feel free to access my website via: [My Developer Portfolio](https://qudahm.github.io/My-Developer-Portfolio/)
 
 ## Technologies Used
-HTML5: For structuring the content.
-CSS3: For styling the website.
-SCSS: For advanced CSS features.
-JavaScript: For interactive elements.
-ScrollReveal.js: For scroll animations.
-FontAwesome: For icons.
+<b>HTML5:</b> For structuring the content.<br>
+<b>CSS3:</b> For styling the website.<br>
+<b>SCSS:</b> For advanced CSS features.<br>
+<b>JavaScript:</b> For interactive elements.<br>
+<b>ScrollReveal.js:</b> For scroll animations.<br>
+<b>FontAwesome:</b> For icons.
 
 ## Features
 Responsive Design: The website is fully responsive and works on all devices.
