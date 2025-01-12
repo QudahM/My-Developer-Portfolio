@@ -1,4 +1,37 @@
-<h1>My Professional Website</h1>
-<h3>A website that is used to expand on my professional experiences working as a Software Engineer and other positions.</h3>
-<h3>An ability to present my software skills using my software projects too.</h3>
-<h3>Feel free to access my website via: https://qudahm.github.io/My-Developer-Portfolio/</h3>
+# My Developer Portfolio
+
+## Description
+This project is a professional website designed to showcase my experiences and skills as a Software Engineer. It includes detailed information about my professional background, software projects, and technical skills. The purpose of this website is to provide a comprehensive overview of my capabilities and achievements in the field of software development.
+
+Feel free to access my website via: [My Developer Portfolio](https://qudahm.github.io/My-Developer-Portfolio/)
+
+## Technologies Used
+HTML5: For structuring the content.
+CSS3: For styling the website.
+SCSS: For advanced CSS features.
+JavaScript: For interactive elements.
+ScrollReveal.js: For scroll animations.
+FontAwesome: For icons.
+
+## Features
+Responsive Design: The website is fully responsive and works on all devices.
+Interactive Elements: Includes animations and interactive components.
+Professional Showcase: Detailed sections for professional experiences, skills, and projects.
+Easy Navigation: User-friendly navigation to explore different sections.
+
+## How to Use
+    1. Visit the live site (https://qudahm.github.io/My-Developer-Portfolio/).
+
+    2. Use the navigation bar to explore sections such as:
+        * About Me: Learn about my professional background and interests.
+        * Projects: Browse featured software development projects with details and links to source code (where applicable).
+        * Skills: Discover my technical proficiencies and tools I frequently use.
+        * Contact: Find ways to connect with me or send feedback.
+
+
+## Contact Information
+For any inquiries or feedback, feel free to reach out:
+
+Email: qudahm@example.com
+LinkedIn: Mohammad Qudah
+Website: My Developer Portfolio
