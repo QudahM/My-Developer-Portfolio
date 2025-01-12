@@ -20,7 +20,7 @@ Professional Showcase: Detailed sections for professional experiences, skills, a
 Easy Navigation: User-friendly navigation to explore different sections.
 
 ## How to Use
-1. Visit the live site (https://qudahm.github.io/My-Developer-Portfolio/).
+1. Visit the <a href ="https://qudahm.github.io/My-Developer-Portfolio/">live site</a>.
 
 2. Use the navigation bar to explore sections such as:
     * <b>About Me:</b> Learn about my professional background and interests.
