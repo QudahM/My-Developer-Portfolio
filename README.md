@@ -10,7 +10,6 @@ Feel free to access my website via: [My Developer Portfolio](https://qudahm.gith
 <b>CSS3:</b> For styling the website.<br>
 <b>SCSS:</b> For advanced CSS features.<br>
 <b>JavaScript:</b> For interactive elements.<br>
-<b>ScrollReveal.js:</b> For scroll animations.<br>
 <b>FontAwesome:</b> For icons.
 
 ## Features
