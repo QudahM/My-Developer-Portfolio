@@ -10,7 +10,6 @@ Feel free to access my website via: [My Developer Portfolio](https://qudahm.gith
 <b>CSS3:</b> For styling the website.<br>
 <b>SCSS:</b> For advanced CSS features.<br>
 <b>JavaScript:</b> For interactive elements.<br>
-<b>FontAwesome:</b> For icons.
 
 ## Features
 Responsive Design: The website is fully responsive and works on all devices.
@@ -24,7 +23,7 @@ Easy Navigation: User-friendly navigation to explore different sections.
 2. Use the navigation bar to explore sections such as:
     * <b>About Me:</b> Learn about my professional background and interests.
     * <b>Projects:</b> Browse featured software development projects with details and links to source code (where applicable).
-    * <b>Skills:</b> Discover my technical proficiencies and tools I frequently use.
+    * <b>Skills:</b> Discover my technical proficiencies and the tools I frequently use.
     * <b>Contact:</b> Find ways to connect with me or send feedback.
 
 
